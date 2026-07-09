@@ -1,0 +1,7 @@
+Metric,Current_Value,Recommendation
+ICU Occupancy,0.0 %,Current Capacity is Sufficient
+Average Waiting Time,92.2 Minutes,Deploy Additional Doctors
+Critical Patients,12527,Allocate More Emergency Staff
+Average Stay,5.49 Days,Review Discharge Planning
+High Risk Patients,12232,Prioritize Monitoring
+Bed Occupancy,100.0 %,Prepare Additional Beds
